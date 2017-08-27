@@ -3,6 +3,7 @@ title: Press
 permalink: /press/
 excerpt: Reports about the Los Angeles Carnivorous Plant Society in the media.
 last_modified_at: 2017-08-27T14:28:13-05:00
+order: 3
 ---
 
 <a href="http://www.laweekly.com/2008-09-11/la-vida/feed-me-carnivorous-plants-and-the-bloody-fingered-people-who-love-them/"><img src="/sites/default/files/photos/laweekly.png" width="300" height="214" alt="laweekly.png" /></a>
