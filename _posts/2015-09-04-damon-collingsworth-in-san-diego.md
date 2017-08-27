@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Damon Collingsworth in San Diego
 redirect_from: "/node/83"
