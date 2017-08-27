@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: February 21 Meeting Features Nepenthes from Seed
 redirect_from: "/node/77"
