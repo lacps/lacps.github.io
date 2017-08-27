@@ -1,7 +1,7 @@
 ---
 title: Growing Drosera hartmeyerorum
 permalink: /articles/hartmeyerorum/
-excerpt: “Tips for growing Drosera hartmeyerorum.”
+excerpt: Tips for growing Drosera hartmeyerorum.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
