@@ -1,7 +1,7 @@
 ---
 title: Drosera meristocaulis
 permalink: /articles/drosera-meristocaulis/
-excerpt: “Observations about Drosera meristocaulis in cultivation.”
+excerpt: Observations about Drosera meristocaulis in cultivation.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
