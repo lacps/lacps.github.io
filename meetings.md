@@ -7,7 +7,9 @@ last_modified_at: 2017-08-27T14:28:13-05:00
 order: 1
 ---
 
-<img src="/sites/default/files/photos/12_1735684423f53d73014f.jpg" width="500" height="333" alt="DJ, flytrap" style="float:right" />Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern California for discussing and trading carnivorous plants. Whether you are a horticulturist, scientist, educator, student, hobbyist or merely someone intrigued by plants that capture and digest prey, an LACPS meeting may just be the perfect place to further your phyto-carnivorous pursuits.  
+<img src="/sites/default/files/photos/12_1735684423f53d73014f.jpg" width="500" height="333" alt="DJ, flytrap" />
+
+Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern California for discussing and trading carnivorous plants. Whether you are a horticulturist, scientist, educator, student, hobbyist or merely someone intrigued by plants that capture and digest prey, an LACPS meeting may just be the perfect place to further your phyto-carnivorous pursuits.  
 
 Meetings typically feature plants for display, sale and trade as well as a talk on some aspect of carnivorous plant cultivation or habitat. Should you have questions about growing carnivorous plants in Los Angeles, seeing them in the wild, or, say, the phylogeny of <em><a href="http://en.wikipedia.org/wiki/Drosera">Drosera</a></em> in subgenus <em><a href="http://en.wikipedia.org/wiki/Taxonomy_of_Drosera#Subgenus_Lasiocephala">Lasiocephala</a></em>, you should have little trouble finding someone willing to help. 
 
