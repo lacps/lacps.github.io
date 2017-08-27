@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Peter D'Amato to speak at the LACPS October 20
 redirect_from: "/node/38"
