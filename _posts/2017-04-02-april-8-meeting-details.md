@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: April 8 Meeting Details
 redirect_from: "/node/92"
