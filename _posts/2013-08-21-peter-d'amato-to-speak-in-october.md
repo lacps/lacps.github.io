@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Peter D'Amato to Speak in October
 redirect_from: "/node/44"
