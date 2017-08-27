@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: DJ to Dazzle Alhambra August 17
 redirect_from: "/node/43"
