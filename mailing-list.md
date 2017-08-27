@@ -1,7 +1,7 @@
 ---
-title: “Mailing List”
+title: Mailing List
 permalink: /mailing-list/
-excerpt: “How to subscribe to the Los Angeles Carnivorous Plant Society mailing list.”
+excerpt: How to subscribe to the Los Angeles Carnivorous Plant Society mailing list.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
