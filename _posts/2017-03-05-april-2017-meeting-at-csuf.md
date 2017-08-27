@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: April 2017 Meeting at CSUF
 redirect_from: "/node/91"
