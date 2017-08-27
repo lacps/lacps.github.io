@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: July 18, 2015 Meeting In Alhambra
 redirect_from: "/node/82"
