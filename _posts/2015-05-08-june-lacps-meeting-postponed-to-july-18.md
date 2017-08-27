@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June LACPS Meeting Postponed To July 18
 redirect_from: "/node/81"
