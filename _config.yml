@@ -4,13 +4,16 @@ gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
+  
+plugins:
+  - jekyll-redirect-from
 
 exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Los Angeles Carnivorous Plant Society
+subtitle: "CP in southern California"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
