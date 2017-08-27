@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 2013 Meetings Scheduled - February 16 Meeting in Alhambra
 redirect_from: "/node/40"
