@@ -1,7 +1,7 @@
 ---
-title: “An LACPS History”
+title: An LACPS History
 permalink: /history/
-excerpt: “A brief history of the Los Angeles Carnivorous Plant Society by Ivan Snyder.”
+excerpt: A brief history of the Los Angeles Carnivorous Plant Society by Ivan Snyder.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
