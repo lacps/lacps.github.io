@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Spot Cullen Presentation on the 20th
 redirect_from: "/node/87"
