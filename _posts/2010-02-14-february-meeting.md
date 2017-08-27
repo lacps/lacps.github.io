@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: February Meeting
 redirect_from: "/node/21"
