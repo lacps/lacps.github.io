@@ -13,7 +13,7 @@ exclude:
 
 # Site settings
 title: LACPS
-subtitle: "Los Angeles Carnivorous Plant Society"
+subtitle: "The Los Angeles Carnivorous Plant Society"
 email: info@lacps.net
 name: LACPS
 description: >
@@ -77,21 +77,21 @@ social:
     icon: twitter
     username: lacarnivores
     url: http://twitter.com/lacarnivores
-    desc: Follow me on Twitter
+    desc: Follow the LACPS on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: LACPS on FB
+    username: LACPS
     url: https://www.facebook.com/pages/Los-Angeles-Carnivorous-Plant-Society/1535398053365817
-    desc: Join the Facebook group
+    desc: Join the LACPS Facebook group
     share: true
 
   - name: GitHub
     icon: github
     username: LACPS
     url: https://github.com/lacps
-    desc: Fork me or contribute to this project on GitHub
+    desc: Fork me or contribute to the LACPS website on GitHub
     share: false
 
   - name: LinkedIn
