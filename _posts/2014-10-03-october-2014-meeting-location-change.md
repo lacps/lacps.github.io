@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: October 2014 Meeting Location Change
 redirect_from: "/node/75"
