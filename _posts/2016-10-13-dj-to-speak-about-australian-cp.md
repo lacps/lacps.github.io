@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: DJ To Speak About Australian CP
 redirect_from: "/node/88"
