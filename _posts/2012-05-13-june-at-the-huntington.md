@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June at the Huntington
 redirect_from: "/node/37"
