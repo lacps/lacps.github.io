@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Bill Hoyer to Replace D'Amato October 19
 redirect_from: "/node/62"
