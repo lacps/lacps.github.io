@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: McPherson on Nepenthes and Heliamphora
 redirect_from: "/node/22"
