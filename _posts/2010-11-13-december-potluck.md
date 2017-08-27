@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: December Potluck
 redirect_from: "/node/28"
