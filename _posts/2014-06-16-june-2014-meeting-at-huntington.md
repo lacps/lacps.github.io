@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June 2014 Meeting at Huntington
 redirect_from: "/node/73"
