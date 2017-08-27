@@ -116,4 +116,4 @@ Meetings are held the third Saturday of every even-numbered month. To keep appri
 <li>December 15 at the <a href='http://lacps.net/where-to-go' alt='' title='Where To Go'>Alhambra Chamber of Commerce building</a></li>
 </ul>
 
-LACPS meetings began in 1994; the full meeting history is not recorded.
+LACPS meetings began in 1994; the full meeting history is not recorded, although Ivan has written a <a href='/history' alt='' title='LACPS history'>brief history of the LACPS</a>.
