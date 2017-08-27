@@ -1,7 +1,7 @@
 ---
-title: “Past Presentations”
+title: Past Presentations
 permalink: /past-presentations/
-excerpt: “A selection of past presentations from Los Angeles Carnivorous Plant Society meetings.”
+excerpt: A selection of past presentations from Los Angeles Carnivorous Plant Society meetings.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
  
