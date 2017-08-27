@@ -3,6 +3,7 @@ title: Meeting Calendar
 permalink: /calendar/
 excerpt: Dates and times for past and future Los Angeles Carnivorous Plant Society meetings.
 last_modified_at: 2017-08-27T14:28:13-05:00
+order: 2
 ---
 
 Meetings are held the third Saturday of every even-numbered month. To keep apprised of the latest LACPS news and announcements, subscribe to the <a href='http://lacps.net/mailing-list' alt='' title='Mailing List'>LACPS Mailing List</a>, check the <a href='http://lacps.net/news' alt='' title='News'>News</a> page, or <a href="http://twitter.com/lacarnivores">follow LACPS on twitter</a>.
