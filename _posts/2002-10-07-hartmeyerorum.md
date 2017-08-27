@@ -23,6 +23,6 @@ There is no need to do anything. Seed will develop by self-pollination.
 PROPAGATING
 Leaf cuttings do not take with this species. After the plant flowers it will begin to produce smaller side branches. You can remove these and they will root quickly. But plants started this way do not seem to grow as well. It is best to start again from seed.
 
-<img src="/sites/default/files/photos/hartmeyerorum/10_hartcloser.jpg" width="512" height="384" alt="10_hartcloser.jpg" />
+<img src="/sites/default/files/photos/hartmeyerorum/10_hartcloser.jpg" />
 
-<img src="/sites/default/files/photos/hartmeyerorum/10_hartmature.jpg" width="384" height="512" alt="10_hartmature.jpg" />
+<img src="/sites/default/files/photos/hartmeyerorum/10_hartmature.jpg" />
