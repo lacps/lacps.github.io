@@ -4,6 +4,7 @@ permalink: /meetings/
 redirect_from: "/where-to-go"
 excerpt: Information about Los Angeles Carnivorous Plant Society meetings in Southern California.
 last_modified_at: 2017-08-27T14:28:13-05:00
+order: 1
 ---
 
 <img src="/sites/default/files/photos/12_1735684423f53d73014f.jpg" width="500" height="333" alt="DJ, flytrap" style="float:right" />Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern California for discussing and trading carnivorous plants. Whether you are a horticulturist, scientist, educator, student, hobbyist or merely someone intrigued by plants that capture and digest prey, an LACPS meeting may just be the perfect place to further your phyto-carnivorous pursuits.  
