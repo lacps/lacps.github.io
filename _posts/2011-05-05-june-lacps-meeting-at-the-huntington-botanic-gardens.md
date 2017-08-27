@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June LACPS meeting at the Huntington Botanic Gardens
 redirect_from: "/node/30"
