@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: LACPS Holiday Potluck Scheduled for December 17
 redirect_from: "/node/34"
