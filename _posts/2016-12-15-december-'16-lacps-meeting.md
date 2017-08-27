@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: December '16 LACPS meeting
 redirect_from: "/node/89"
