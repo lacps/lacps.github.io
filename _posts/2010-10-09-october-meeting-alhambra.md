@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: October Meeting – Alhambra
 redirect_from: "/node/27"
