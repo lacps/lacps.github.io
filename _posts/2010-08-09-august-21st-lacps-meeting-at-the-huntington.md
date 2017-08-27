@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: August 21st LACPS Meeting at the Huntington
 redirect_from: "/node/25"
