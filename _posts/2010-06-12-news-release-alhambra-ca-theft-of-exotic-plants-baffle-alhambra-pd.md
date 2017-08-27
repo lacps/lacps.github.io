@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: News Release--Alhambra, CA Theft of Exotic Plants Baffle Alhambra PD
 redirect_from: "/node/23"
