@@ -19,4 +19,4 @@ order: 3
 
 
 
-Older articles may be available at <a href='http://lacps.net/meetings' alt='' title='Meetings'>meetings</a>.
+Older articles may be available at <a href='/meetings' alt='' title='Meetings'>meetings</a>.
