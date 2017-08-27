@@ -1,7 +1,7 @@
 ---
-title: “Press”
+title: Press
 permalink: /press/
-excerpt: “Reports about the Los Angeles Carnivorous Plant Society in the media.”
+excerpt: Reports about the Los Angeles Carnivorous Plant Society in the media.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
