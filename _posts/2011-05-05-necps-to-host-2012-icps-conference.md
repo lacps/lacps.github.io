@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: NECPS to host 2012 ICPS Conference
 redirect_from: "/node/29"
