@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: December 2015 Meeting
 redirect_from: "/node/84"
