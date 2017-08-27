@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: February 2017 LACPS Meeting - Assassin Bugs & SoCal CP
 redirect_from: "/node/90"
