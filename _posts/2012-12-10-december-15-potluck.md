@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 'December 15 Potluck '
 redirect_from: "/node/39"
