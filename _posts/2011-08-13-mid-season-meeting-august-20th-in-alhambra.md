@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Mid-season Meeting - August 20th in Alhambra
 redirect_from: "/node/32"
