@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: April 18 LACPS Meeting Details
 redirect_from: "/node/79"
