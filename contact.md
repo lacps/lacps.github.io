@@ -23,4 +23,6 @@ Should you find any errors of note on this website, please contact Forbes - <spa
 
 All photography © Forbes Conrad unless otherwise stated.
 
+<h3>ICPS Web Ring</h3>
+
 <ul><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/previous">Previous Site</a></li><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/next">Next Site</a></li></ul><a href="http://www.carnivorousplants.org/">International Carnivorous Plant Society</a>
