@@ -3,6 +3,7 @@ title: Mailing List
 permalink: /mailing-list/
 excerpt: How to subscribe to the Los Angeles Carnivorous Plant Society mailing list.
 last_modified_at: 2017-08-27T14:28:13-05:00
+order: 4
 ---
 
 If you would like keep abreast of occasional LACPS-themed announcements or dare to participate in electronic LA CP discussions, <a href="http://tech.groups.yahoo.com/group/LACPS/?v=1&t=search&ch=web&pub=groups&sec=group&slk=1">click here to subscribe to the LACPS Yahoo Group</a> or send an email to <a href="mailto:LACPS-subscribe@yahoogroups.com">LACPS-subscribe@yahoogroups.com</a>.
