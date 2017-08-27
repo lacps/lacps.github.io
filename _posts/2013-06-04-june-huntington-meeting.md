@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June Huntington Meeting
 redirect_from: "/node/42"
