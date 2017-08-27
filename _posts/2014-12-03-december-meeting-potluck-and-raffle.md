@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: December Meeting Potluck and Raffle
 redirect_from: "/node/76"
