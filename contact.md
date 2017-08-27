@@ -1,7 +1,7 @@
 ---
-title: “Contact”
+title: Contact
 permalink: /contact/
-excerpt: “Contact information for the Los Angeles Carnivorous Plant Society.”
+excerpt: Contact information for the Los Angeles Carnivorous Plant Society.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
