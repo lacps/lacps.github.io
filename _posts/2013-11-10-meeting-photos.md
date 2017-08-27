@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Meeting Photos
 redirect_from: "/node/69"
