@@ -1,7 +1,7 @@
 ---
-title: “Meeting Calendar”
+title: Meeting Calendar
 permalink: /calendar/
-excerpt: “Dates and times for past and future Los Angeles Carnivorous Plant Society meetings.”
+excerpt: Dates and times for past and future Los Angeles Carnivorous Plant Society meetings.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
