@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: April 2015 LACPS Meeting to be Held at CSUF
 redirect_from: "/node/78"
