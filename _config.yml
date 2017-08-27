@@ -82,14 +82,14 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: Los Angeles Carnivorous Plant Society
+    username: LACPS on FB
     url: https://www.facebook.com/pages/Los-Angeles-Carnivorous-Plant-Society/1535398053365817
     desc: Join the Facebook group
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: LACPS
     url: https://github.com/lacps
     desc: Fork me or contribute to this project on GitHub
     share: false
