@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: June LACPS meeting in Alhambra
 redirect_from: "/node/80"
