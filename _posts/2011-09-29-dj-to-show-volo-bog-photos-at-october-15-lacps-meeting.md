@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: DJ to Show Volo Bog Photos at October 15 LACPS Meeting
 redirect_from: "/node/33"
