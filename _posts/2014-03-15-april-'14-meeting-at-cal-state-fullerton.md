@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: April '14 meeting at Cal State Fullerton
 redirect_from: "/node/71"
