@@ -5,7 +5,7 @@ excerpt: Contact information for the Los Angeles Carnivorous Plant Society.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
-For more information on the LACPS, join the <a href="http://tech.groups.yahoo.com/group/LACPS/?v=1&t=search&ch=web&pub=groups&sec=group&slk=1">LACPS Yahoo Group</a> or contact Thomas Johnson at <span class="spamspan">
+For more information on the Los Angeles Carnivorous Plant Society, join the <a href="http://tech.groups.yahoo.com/group/LACPS/?v=1&t=search&ch=web&pub=groups&sec=group&slk=1">LACPS Yahoo Group</a> or contact Thomas Johnson at <span class="spamspan">
 <span class="u">tjohnson</span>
 [at]
 <span class="d">cslanet.calstatela[dot]edu</span>
