@@ -17,7 +17,11 @@ subtitle: "The Los Angeles Carnivorous Plant Society"
 email: info@lacps.net
 name: LACPS
 description: >
-  The Los Angeles Carnivorous Plant Society is the largest forum in Southern California for discussing and trading carnivorous plants.
+  
+<h3>ICPS Web Ring</h3>
+
+<ul><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/previous">Previous Site</a></li><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/next">Next Site</a></li></ul><a href="http://www.carnivorousplants.org/">International Carnivorous Plant Society</a>
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
