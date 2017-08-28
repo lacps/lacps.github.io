@@ -22,7 +22,3 @@ Should you find any errors of note on this website, please contact Forbes - <spa
 </span> (for meeting-related inquiries, please contact Tom or write the <a href="http://tech.groups.yahoo.com/group/LACPS/?v=1&t=search&ch=web&pub=groups&sec=group&slk=1">LACPS Yahoo Group</a>).
 
 All photography © Forbes Conrad unless otherwise stated.
-
-<h3>ICPS Web Ring</h3>
-
-<ul><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/previous">Previous Site</a></li><li><a href="http://www.carnivorousplants.org/webring/go.cgi/572/next">Next Site</a></li></ul><a href="http://www.carnivorousplants.org/">International Carnivorous Plant Society</a>
