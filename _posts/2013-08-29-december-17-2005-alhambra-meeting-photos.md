@@ -1,0 +1,9 @@
+---
+layout: post
+title: December 17, 2005 Alhambra Meeting Photos
+redirect_from: "/node/48"
+category: Photos
+---
+
+<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010018.jpg" width="800" height="600" alt="Petiolaris Drosera" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010003.jpg" width="800" height="600" alt="Plants" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010001.jpg" width="800" height="662" alt="Drosera" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010005.jpg" width="800" height="600" alt="Pinguicula" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010007.jpg" width="600" height="800" alt="Ivan&#039;s Drosera" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010012_0.jpg" width="800" height="600" alt="Ivan&#039;s Drosera" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010014_0.jpg" width="559" height="800" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010020.jpg" width="600" height="800" alt="Petiolaris Drosera" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the December 17 2005 LACPS meeting in Alhambra.</p>
+</div></div></div>

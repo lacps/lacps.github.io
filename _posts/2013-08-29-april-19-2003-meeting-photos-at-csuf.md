@@ -1,0 +1,9 @@
+---
+layout: post
+title: April 19, 2003 Meeting Photos at CSUF
+redirect_from: "/node/44"
+category: Photos
+---
+
+<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190001.jpg" width="800" height="600" alt="Sarracenia" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190006.jpg" width="800" height="600" alt="Pinguicula" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190008.jpg" width="600" height="800" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190011.jpg" width="600" height="800" alt="Nepenthes" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190018.jpg" width="600" height="800" alt="Sarracenia" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190021.jpg" width="600" height="800" alt="Nepenthes" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190023.jpg" width="800" height="600" alt="Nepenthes house" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190024.jpg" width="600" height="800" alt="Nepenthes" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Meeting photos from the April 19, 2003 LACPS meeting at CSUF.</p>
+</div></div></div>
