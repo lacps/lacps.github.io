@@ -11,6 +11,11 @@ If you would like keep abreast of occasional LACPS-themed announcements or dare 
 
 You might also <a href="http://twitter.com/lacarnivores">follow LACPS on twitter</a>.
 
+<h3>Carnivorous Plant Clubs</h3>
+
+Other active CP clubs in North America
+<ul><li><a href="http://www.bacps.org">Bay Area Carnivorous Plant Society</a></li> <li><a href="http://www.necps.org">New England Carnivorous Plant Society</a></li><li><a href="http://umcps.net">Upper Midwest Carnivorous Plant Society</a></li><li><a href="http://www.sandiegocarnivorousplantsociety.com/">San Diego Carnivorous Plant Society</a></li></ul>
+
 For yet more verbiage and photos to feed your carnivorous plant frenzy, any of the following could fit the bill:
 <ul>
 <li><a href="http://carnivorousplants.org/">International Carnivorous Plant Society</a></li>
