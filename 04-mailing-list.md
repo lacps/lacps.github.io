@@ -13,8 +13,10 @@ You might also <a href="http://twitter.com/lacarnivores">follow LACPS on twitter
 
 <h3>Carnivorous Plant Clubs</h3>
 
-Other active CP clubs in North America
+Other active CP clubs in North America include the following:
 <ul><li><a href="http://www.bacps.org">Bay Area Carnivorous Plant Society</a></li> <li><a href="http://www.necps.org">New England Carnivorous Plant Society</a></li><li><a href="http://umcps.net">Upper Midwest Carnivorous Plant Society</a></li><li><a href="http://www.sandiegocarnivorousplantsociety.com/">San Diego Carnivorous Plant Society</a></li></ul>
+
+<h3>Other CP Resources</h3>
 
 For yet more verbiage and photos to feed your carnivorous plant frenzy, any of the following could fit the bill:
 <ul>
