@@ -1,3 +1,5 @@
-# Los Angeles Carnivorous Plant Society [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://lacps.net)
+# [Los Angeles Carnivorous Plant Society](https://lacps.net) Website
 
 Based on the [Centarium](http://bencentra.com/centrarium) theme.
+
+https://github.com/bencentra/centrarium
