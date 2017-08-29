@@ -5,5 +5,32 @@ redirect_from: "/june-2014-huntington-gardens-meeting-photos"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6022.jpg" width="800" height="532" alt="Dionaea in trays" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6001.jpg" width="800" height="534" alt="LACPS meeting slideshow" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6002.jpg" width="800" height="533" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6003.jpg" width="800" height="534" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6005.jpg" width="800" height="532" alt="Mexican Pinguicula" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6008.jpg" width="800" height="532" alt="Mexican Pinguicula" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6009.jpg" width="800" height="532" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6010.jpg" width="800" height="532" alt="Nepenthes" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6012_No%20any%20leaves%20only%20roots%20XD.jpg" width="800" height="534" alt="orchid" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6013.jpg" width="800" height="532" alt="Sarracenia and photographer" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6014.jpg" width="800" height="532" alt="Dionaea" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6015.jpg" width="800" height="532" alt="Dionaea and people" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6023.jpg" width="800" height="534" alt="Dionaea" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/DSC_6024.jpg" width="800" height="532" alt="Sarracenia" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the June 21, 2014 LACPS meeting at the the Huntington Library and Botanical Gardens. Pictures copyright Hank Dock; used with permission.</p>
-</div></div></div>
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6022.jpg" alt="Dionaea in trays" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6001.jpg" alt="LACPS meeting slideshow" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6002.jpg" width="800" height="533" alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6003.jpg" alt="" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6005.jpg" alt="Mexican Pinguicula" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6008.jpg" alt="Mexican Pinguicula" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6009.jpg" alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6010.jpg" alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6012_No%20any%20leaves%20only%20roots%20XD.jpg"  alt="orchid" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6013.jpg" alt="Sarracenia and photographer" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6014.jpg" alt="Dionaea" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6015.jpg" alt="Dionaea and people" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6023.jpg" alt="Dionaea" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6024.jpg" alt="Sarracenia" />
+
+Photos from the June 21, 2014 LACPS meeting at the the Huntington Library and Botanical Gardens. Pictures copyright Hank Dock; used with permission.
