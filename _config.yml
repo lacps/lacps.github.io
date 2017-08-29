@@ -12,8 +12,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: LACPS
-subtitle: "The Los Angeles Carnivorous Plant Society"
+title: The Los Angeles Carnivorous Plant Society
+subtitle: "LACPS"
 email: info[at]lacps [dot] net
 name: Los Angeles Carnivorous Plant Society
 description: > 
