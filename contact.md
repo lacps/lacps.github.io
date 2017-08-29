@@ -13,7 +13,7 @@ For more information on the Los Angeles Carnivorous Plant Society, join the <a h
 
 Should you be looking for a CP group in some other geographic area, the <a href="http://www.sarracenia.com/faq.html">CP FAQ</a> maintains a <a href="http://sarracenia.com/faq/faq6100.html">list of carnivorous plant societies</a>.
 
-This website hosted and maintained by Forbes Conrad. Check out <a href="https://aldrovanda.com/">aldrovanda.com for more of his botanical photography</a>. This site is built on <a href="https://jekyllrb.com/">Jekyll</a> using <a href="http://bencentra.com/centrarium/">Centrarium</a> and is hosted on [Github Pages](https://github.com/lacps/).
+This website hosted and maintained by Forbes Conrad. Check out <a href="https://aldrovanda.com/">aldrovanda.com for more of his botanical photography</a>. This site is built on <a href="https://jekyllrb.com/">Jekyll</a> using <a href="http://bencentra.com/centrarium/">Centrarium</a> and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
 
 Should you find any errors of note on this website, please contact Forbes - <span class="spamspan">
 <span class="u">info</span>
