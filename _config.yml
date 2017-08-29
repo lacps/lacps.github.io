@@ -11,7 +11,8 @@ plugins:
 exclude:
   - "/vendor/"
  
-include: [/sites/default/files/]
+include: 
+  - "/sites/default/files/"
 
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
