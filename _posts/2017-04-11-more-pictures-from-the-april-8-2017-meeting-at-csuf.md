@@ -5,8 +5,6 @@ redirect_from: "/node/94"
 categories: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even">
-
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7651.jpg" alt="" /></div><div class="field-item odd">
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7630.jpg" alt="" /></div><div class="field-item even">
@@ -121,8 +119,6 @@ categories: Photos
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7807.jpg" alt="" /></div><div class="field-item odd">
 
-<img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7809.jpg" alt="" /></div></div>
+<img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7809.jpg" alt="" />
 
-</div>
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the April 8, 2017 LACPS meeting at the at the CSUF Biology Greenhouse Complex. Pictures copyright Alejandra Citlaly Molina; used with permission.</p>
-</div></div></div>
+<p>Photos from the April 8, 2017 LACPS meeting at the at the CSUF Biology Greenhouse Complex. Pictures copyright Alejandra Citlaly Molina; used with permission.</p>
