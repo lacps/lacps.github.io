@@ -5,5 +5,38 @@ redirect_from: "/node/68"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5940.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5941.jpg" width="536" height="800" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5939.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5942.jpg" width="536" height="800" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5943.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5945.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5946.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5947.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5948.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5949.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5950.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5951.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5952.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5953.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5954.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5957.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP5961.jpg" width="800" height="536" alt="" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the August 17, 2013 LACPS meeting in Alhambra with Barry Rice and Makoto Honda in attendance. Pictures copyright Warren Auyong; used with permission.</p>
-</div></div></div>
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5940.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5941.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5939.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5942.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5943.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5945.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5946.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5947.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5948.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5949.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5950.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5951.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5952.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5953.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5954.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5957.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5961.jpg"  />
+
+Photos from the August 17, 2013 LACPS meeting in Alhambra with Barry Rice and Makoto Honda in attendance. Pictures copyright Warren Auyong; used with permission.
