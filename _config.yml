@@ -13,8 +13,11 @@ exclude:
  
 include: 
   - "/sites/default/files/styles/large/public/meeting_photos/"
-  - "/sites/default/files/styles/large/public/meeting_photos/_*"
-
+  - "/sites/default/files/styles/large/public/meeting_photos/*"
+  
+keep_files: 
+  - "/sites/default/files/styles/large/public/meeting_photos/"
+ 
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
 subtitle: "LACPS"
