@@ -1,4 +1,4 @@
-# [Los Angeles Carnivorous Plant Society](https://lacps.net) Website
+# [Los Angeles Carnivorous Plant Society](http://lacps.net) Website
 
 Based on the [Centarium](http://bencentra.com/centrarium) theme.
 
