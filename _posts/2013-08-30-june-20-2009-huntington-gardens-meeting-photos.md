@@ -5,5 +5,22 @@ redirect_from: "/node/61"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204169.jpg" width="800" height="600" alt="Meeting group" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204028.jpg" width="730" height="800" alt="Dionaea" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204108.jpg" width="559" height="800" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204110.jpg" width="557" height="800" alt="Nepenthes" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204112.jpg" width="560" height="800" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204121.jpg" width="800" height="532" alt="Pinguicula bench" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204123.jpg" width="800" height="666" alt="Heliamphora" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204176.jpg" width="556" height="800" alt="Nepenthes" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/20090620-P6204179.jpg" width="590" height="800" alt="Sarracenia flava" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the June 20, 2009 LACPS meeting at the the Huntington Library and Botanical Gardens. Pictures copyright <a href="http://www.flickr.com/search/?q=LACPS&amp;w=34198377%40N07&amp;ss=2&amp;s=rec">Jason Osmann</a>; used with permission.</p>
-</div></div></div>
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204169.jpg"  alt="Meeting group" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204028.jpg"  alt="Dionaea" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204108.jpg"  alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204110.jpg"  alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204112.jpg"  alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204121.jpg"  alt="Pinguicula bench" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204123.jpg"  alt="Heliamphora" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204176.jpg"  alt="Nepenthes" />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204179.jpg"  alt="Sarracenia flava" />
+
+Photos from the June 20, 2009 LACPS meeting at the the Huntington Library and Botanical Gardens. Pictures copyright <a href="http://www.flickr.com/search/?q=LACPS&amp;w=34198377%40N07&amp;ss=2&amp;s=rec">Jason Osmann</a>; used with permission.
