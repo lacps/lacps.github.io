@@ -11,7 +11,7 @@ plugins:
 exclude:
   - "/vendor/"
  
-include: [/sites/default/files/styles/large/public/meeting_photos/, /sites/default/files/styles/large/public/meeting_photos/*]
+include: [/sites/default/files/styles/large/public/meeting_photos/, _MG_7651.jpg, /sites/default/files/styles/large/public/meeting_photos/*]
   
 keep_files: [/sites/default/files/styles/large/public/meeting_photos/, _*.jpg /sites/default/files/styles/large/public/meeting_photos/*]
  
