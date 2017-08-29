@@ -5,5 +5,28 @@ redirect_from: "/node/66"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3729.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3730.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3752.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3755.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3762.jpg" width="800" height="536" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3769.jpg" width="536" height="800" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3780.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3787.jpg" width="536" height="800" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3793.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3805.jpg" width="800" height="536" alt="" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3808.jpg" width="536" height="800" alt="" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/IMGP3815.jpg" width="536" height="800" alt="" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the April 20, 2013 LACPS meeting at the  at the CSUF Biology Greenhouse Complex. Pictures copyright Warren Auyong; used with permission.</p>
-</div></div></div>
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3729.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3730.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3752.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3755.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3762.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3769.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3780.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3787.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3793.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3805.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3808.jpg"  />
+
+<img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3815.jpg"  />
+
+Photos from the April 20, 2013 LACPS meeting at the at the CSUF Biology Greenhouse Complex. Pictures copyright Warren Auyong; used with permission.
