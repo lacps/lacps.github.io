@@ -12,7 +12,8 @@ exclude:
   - "/vendor/"
  
 include: 
-  - "/sites/default/files/"
+  - "/sites/default/files/styles/large/public/meeting_photos/"
+  - "/sites/default/files/styles/large/public/meeting_photos/_*"
 
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
