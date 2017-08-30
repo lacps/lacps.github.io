@@ -1,7 +1,7 @@
 ---
 title: Meetings
 permalink: /meetings/
-redirect_from: "/where-to-go"
+redirect_from: /where-to-go
 excerpt: Information about Los Angeles Carnivorous Plant Society meetings in Southern California.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
