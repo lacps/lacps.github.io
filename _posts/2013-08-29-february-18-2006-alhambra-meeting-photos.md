@@ -5,5 +5,22 @@ redirect_from: "/node/49"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010053_0.jpg" width="800" height="600" alt="Meeting" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010040.jpg" width="800" height="600" alt="Plants" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010041.jpg" width="800" height="600" alt="Nepenthes" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010044.jpg" width="600" height="800" alt="Plants" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010047.jpg" width="800" height="600" alt="Plants" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010049.jpg" width="800" height="600" alt="Cephalotus" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010052_0.jpg" width="600" height="800" alt="Tissue culture tubs" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010057_0.jpg" width="800" height="600" alt="Darlingtonia stained glass" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010060.jpg" width="800" height="600" alt="Meeting" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the February 18, 2006 LACPS meeting in Alhambra.</p>
-</div></div></div>
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010053_0.jpg"  alt="Meeting" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010040.jpg"  alt="Plants" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010041.jpg"  alt="Nepenthes" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010044.jpg"  alt="Plants" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010047.jpg"  alt="Plants" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010049.jpg"  alt="Cephalotus" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010052_0.jpg"  alt="Tissue culture tubs" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010057_0.jpg"  alt="Darlingtonia stained glass" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010060.jpg"  alt="Meeting" />
+
+Photos from the February 18, 2006 LACPS meeting in Alhambra.
