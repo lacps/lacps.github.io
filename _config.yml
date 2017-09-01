@@ -5,23 +5,23 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
-  
+
 plugins:
   - jekyll-redirect-from
 
 exclude:
   - "/vendor/"
- 
+
 include: [/sites/default/files/styles/large/public/meeting_photos/, _*.jpg, /sites/default/files/styles/large/public/meeting_photos/*]
-  
+
 keep_files: [/sites/default/files/styles/large/public/meeting_photos/, _*.jpg /sites/default/files/styles/large/public/meeting_photos/*]
- 
+
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
 subtitle: "LACPS"
 email: info[at]lacps [dot] net
 name: Los Angeles Carnivorous Plant Society
-description: > 
+description: >
   The LACPS is an informal club dedicated to discussing, growing, and trading carnivorous plants in southern California.
 author: LACPS
 
@@ -103,8 +103,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: 
-    url: 
+    username:
+    url:
     desc: Connect with me on LinkedIn
     share: true
 
@@ -206,4 +206,5 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
  
