@@ -18,4 +18,4 @@ Most meetings are held at the Alhambra Chamber of Commerce building. Check the <
 
 Address: <a href="https://www.google.com/maps/place/104+S+1st+St,+Alhambra,+CA+91801/@34.0741954,-118.1990554,11.25z/data=!4m5!3m4!1s0x80c2c5265f2a6e15:0x6026926d56022601!8m2!3d34.0935134!4d-118.1267703!6m1!1e1">104 S. First St., Alhambra, California. U.S.A.</a>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d177856.5815529033!2d-118.19905536328244!3d34.07419541288482!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c5265f2a6e15%3A0x6026926d56022601!2s104+S+1st+St%2C+Alhambra%2C+CA+91801!5e0!3m2!1sen!2sus!4v1488620236339" width="90%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d177856.5815529033!2d-118.19905536328244!3d34.07419541288482!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c5265f2a6e15%3A0x6026926d56022601!2s104+S+1st+St%2C+Alhambra%2C+CA+91801!5e0!3m2!1sen!2sus!4v1488620236339" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
