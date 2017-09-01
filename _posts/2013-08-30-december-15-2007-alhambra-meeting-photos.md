@@ -5,5 +5,24 @@ redirect_from: "/node/58"
 category: Photos
 ---
 
-<div class="field field-name-field-node-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2362.jpg" width="800" height="529" alt="Drosera" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2218.jpg" width="800" height="533" alt="tuberous Drosera" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2244.jpg" width="533" height="800" alt="tuberous Drosera" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2278.jpg" width="800" height="533" alt="Cephalotus" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2293.jpg" width="505" height="800" alt="Pinguicula " /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2304.jpg" width="533" height="800" alt="Pinguicula cyclosecta " /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2308.jpg" width="533" height="800" alt="Dionaea muscipula" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2367.jpg" width="800" height="533" alt="Dionaea muscipula" /></div><div class="field-item even"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2372.jpg" width="800" height="533" alt="Dionaea muscipula" /></div><div class="field-item odd"><img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2385.jpg" width="544" height="800" alt="" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Photos from the December 15, 2007 LACPS meeting in Alhambra.</p>
-</div></div></div>
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2362.jpg"  alt="Drosera" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2218.jpg" alt="tuberous Drosera" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2244.jpg"  alt="tuberous Drosera" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2278.jpg" alt="Cephalotus" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2293.jpg"  alt="Pinguicula " />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2304.jpg"  alt="Pinguicula cyclosecta " />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2308.jpg"  alt="Dionaea muscipula" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2367.jpg" alt="Dionaea muscipula" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2372.jpg" alt="Dionaea muscipula" />
+
+<img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2385.jpg"  alt="" />
+
+Photos from the December 15, 2007 LACPS meeting in Alhambra.
