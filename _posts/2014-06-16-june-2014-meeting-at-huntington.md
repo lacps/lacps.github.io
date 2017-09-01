@@ -2,6 +2,8 @@
 layout: post
 title: June 2014 Meeting at Huntington
 redirect_from: "/node/73"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Warren's details about the June meeting:</p>

@@ -3,6 +3,7 @@ layout: post
 title: June 20, 2009 Huntington Gardens Meeting Photos
 redirect_from: "/node/61"
 category: Photos
+author: Jason Osmann
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/20090620-P6204169.jpg"  alt="Meeting group" />

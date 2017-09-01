@@ -2,6 +2,8 @@
 layout: post
 title: Peter D'Amato to speak at the LACPS October 20
 redirect_from: "/node/38"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Here's what Tom has to say about the 2012/10/20 LACPS meeting:</p>

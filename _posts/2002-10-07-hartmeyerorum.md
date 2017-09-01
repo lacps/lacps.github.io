@@ -4,11 +4,11 @@ permalink: /articles/hartmeyerorum/
 excerpt: Tips for growing Drosera hartmeyerorum.
 last_modified_at: 2017-08-27T14:28:13-05:00
 categories: Articles
+author: Ivan Snyder
 ---
 
-by Ivan Snyder
 Photography by Ed Read
-October 7, 2002 
+October 7, 2002
 
 Here are a few tips for growing the newly discovered sundew <em>Drosera hartmeyerorum</em>. It is not at all difficult but will grow better for you if you follow a few rules. This sundew can be especially attractive if grown right. And you might notice the plant gives off a delightful sweet citrus fragrance. I hope more people will want to grow this new sundew and bring it into vogue. Try to figure out what those strange organs are for!
 GROWING AREA

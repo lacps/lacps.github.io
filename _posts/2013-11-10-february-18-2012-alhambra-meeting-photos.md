@@ -3,6 +3,7 @@ layout: post
 title: February 18, 2012 Alhambra Meeting Photos
 redirect_from: "/node/63"
 category: Photos
+author: Warren Auyong
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3718.jpg"  />

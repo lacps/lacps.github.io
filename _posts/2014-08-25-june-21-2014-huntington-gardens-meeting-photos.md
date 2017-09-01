@@ -3,6 +3,7 @@ layout: post
 title: June 21, 2014 Huntington Gardens Meeting Photos
 redirect_from: "/june-2014-huntington-gardens-meeting-photos"
 category: Photos
+author: Hank Dock
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/DSC_6022.jpg" alt="Dionaea in trays" />

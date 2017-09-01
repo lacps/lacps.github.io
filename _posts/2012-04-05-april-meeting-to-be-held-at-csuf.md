@@ -2,6 +2,8 @@
 layout: post
 title: April meeting to be held at CSUF
 redirect_from: "/node/36"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>April looks to be an exciting month with the regularly-scheduled LACPS meeting moving to <a href="http://biology.fullerton.edu/facilities/greenhouse/" alt="">CSUF</a> for the day. Here are details on the venue from greenhouse director Ed Read:</p>

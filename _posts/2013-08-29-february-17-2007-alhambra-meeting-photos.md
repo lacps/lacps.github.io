@@ -3,6 +3,7 @@ layout: post
 title: February 17, 2007 Alhambra Meeting Photos
 redirect_from: "/node/53"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_0477.jpg"  alt="Drosera meristocaulis" />

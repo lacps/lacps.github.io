@@ -2,6 +2,8 @@
 layout: post
 title: LACPS at the Huntington
 redirect_from: "/node/8"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The June 20, 2009 LACPS meeting will be in the Botanical Center Ahmanson Classroom of the <a href="http://www.huntington.org">Huntington Library and Botanical Gardens</a>.</p>

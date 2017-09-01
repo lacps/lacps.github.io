@@ -3,6 +3,7 @@ layout: post
 title: October 20, 2007 Alhambra Meeting Photos
 redirect_from: "/node/57"
 category: Photos
+author: LACPS
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_4782.jpg" alt="Drosera" />

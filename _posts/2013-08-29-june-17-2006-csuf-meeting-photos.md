@@ -3,6 +3,7 @@ layout: post
 title: June 17, 2006 CSUF Meeting Photos
 redirect_from: "/node/50"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_0869.jpg"  alt="Pinguicula" />

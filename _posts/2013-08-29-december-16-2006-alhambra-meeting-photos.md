@@ -3,6 +3,7 @@ layout: post
 title: December 16, 2006 Alhambra Meeting Photos
 redirect_from: "/node/52"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_9266.jpg"  alt="meeting" />

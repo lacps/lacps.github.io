@@ -2,6 +2,8 @@
 layout: post
 title: Spot Cullen Presentation on the 20th
 redirect_from: "/node/87"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Meeting details from Tom: </p>

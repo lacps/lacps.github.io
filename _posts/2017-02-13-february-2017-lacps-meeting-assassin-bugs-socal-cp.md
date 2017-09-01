@@ -2,6 +2,8 @@
 layout: post
 title: February 2017 LACPS Meeting - Assassin Bugs & SoCal CP
 redirect_from: "/node/90"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The next LACPS meeting will be held on February 18, 2017 at the <a href="http://lacps.net/where-to-go" alt="" title="Where To Go">Alhambra Chamber of Commerce building</a>. Doors open when Tom arrives, which is usually around 10:45 AM.</p>

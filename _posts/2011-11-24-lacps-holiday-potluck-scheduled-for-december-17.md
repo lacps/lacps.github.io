@@ -2,6 +2,7 @@
 layout: post
 title: LACPS Holiday Potluck Scheduled for December 17
 redirect_from: "/node/34"
+author: LACPS
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The December meeting will - as usual - include a holiday potluck. Past LACPS potlucks have featured exotic delights, such as dishes cooked in <em>Nepenthes </em>pitchers, as well as more typical fare. To see what others are bringing this year, please refer to the the <a href="/mailing-list">LACPS mailing list</a>.</p>

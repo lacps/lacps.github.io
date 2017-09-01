@@ -2,6 +2,8 @@
 layout: post
 title: April 8 Meeting Details
 redirect_from: "/node/92"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Here are details on the coming LACPS meeting on April 8th from the esteemed Ed Read (manager of the <a href="http://biology.fullerton.edu/facilities/greenhouse/" alt="">CSUF Biology Greenhouse Complex</a>):</p>

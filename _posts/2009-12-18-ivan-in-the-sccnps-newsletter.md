@@ -2,6 +2,8 @@
 layout: post
 title: Ivan in the SCCNPS Newsletter
 redirect_from: "/node/13"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://www.sccnps.org/newsletters/Newsletter_2010-1_December-February.pdf"><img src="/sites/default/files/photos/ivan-article-sccnps.png" class="profile" alt="Ivan article - sccnps" /></a></p>

@@ -3,6 +3,7 @@ layout: post
 title: " June 9, 2012 Huntington Gardens Meeting Photos"
 redirect_from: "/node/64"
 category: Photos
+author: Warren Auyong
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5709.jpg" />

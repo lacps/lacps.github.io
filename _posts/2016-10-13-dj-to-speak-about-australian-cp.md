@@ -2,6 +2,8 @@
 layout: post
 title: DJ To Speak About Australian CP
 redirect_from: "/node/88"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The next LACPS meeting will be held on October 15 (2016) at the <a href="http://lacps.net/where-to-go" alt="" title="Where To Go">Alhambra Chamber of Commerce building</a>. Meeting details from Tom are below: </p>

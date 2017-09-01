@@ -3,6 +3,7 @@ layout: post
 title: April 20, 2013 CSUF Meeting Photos
 redirect_from: "/node/66"
 category: Photos
+author: Warren Auyong
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMGP3729.jpg"  />

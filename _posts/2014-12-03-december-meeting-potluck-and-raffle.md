@@ -2,6 +2,8 @@
 layout: post
 title: December Meeting Potluck and Raffle
 redirect_from: "/node/76"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Our December 20 meeting will be a Potluck.</p>

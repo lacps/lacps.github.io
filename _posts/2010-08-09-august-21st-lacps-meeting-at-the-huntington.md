@@ -2,6 +2,8 @@
 layout: post
 title: August 21st LACPS Meeting at the Huntington
 redirect_from: "/node/25"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The August 21st meeting will be held at the <a href="http://www.huntington.org">Huntington Library and Botanical Gardens</a> from 10:30am-1:30pm. Please get there by 11am if you want to take part of the guided tour.</p>

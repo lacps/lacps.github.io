@@ -3,6 +3,7 @@ layout: post
 title: April 8, 2017 Meeting Photos at CSUF
 redirect_from: "/node/93"
 category: Photos
+author: Megan Andersen
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMG_1462.jpg" />

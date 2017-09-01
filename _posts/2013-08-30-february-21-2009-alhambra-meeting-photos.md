@@ -3,6 +3,7 @@ layout: post
 title: February 21, 2009 Alhambra Meeting Photos
 redirect_from: "/node/59"
 category: Photos
+author: Jason Osmann
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/B52.jpg" alt="Dionaea &#039;B52&#039;" />

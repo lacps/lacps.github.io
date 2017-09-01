@@ -3,6 +3,7 @@ layout: post
 title: June 15, 2013 Huntington Gardens Meeting Photos
 redirect_from: "/node/67"
 category: Photos
+author: Warren Auyong
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMGP4585.jpg"  />

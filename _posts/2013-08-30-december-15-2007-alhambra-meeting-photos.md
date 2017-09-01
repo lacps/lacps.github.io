@@ -3,6 +3,7 @@ layout: post
 title: December 15, 2007 Alhambra Meeting Photos
 redirect_from: "/node/58"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2362.jpg"  alt="Drosera" />

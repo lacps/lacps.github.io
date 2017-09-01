@@ -3,6 +3,7 @@ layout: post
 title: August 17, 2013 Alhambra Meeting Photos
 redirect_from: "/node/68"
 category: Photos
+author: Warren Auyong
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/IMGP5940.jpg"  />

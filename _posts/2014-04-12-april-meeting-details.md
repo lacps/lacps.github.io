@@ -2,6 +2,8 @@
 layout: post
 title: April Meeting Details
 redirect_from: "/node/72"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Details about the April 19 LACPS meeting at CSUF from Ed Read:</p>

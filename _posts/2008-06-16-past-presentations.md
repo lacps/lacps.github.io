@@ -3,9 +3,10 @@ title: Past Presentations
 permalink: /past-presentations/
 excerpt: A selection of past presentations from Los Angeles Carnivorous Plant Society meetings.
 last_modified_at: 2017-08-27T14:28:13-05:00
+author: LACPS
 ---
- 
-LACPS meetings regularly feature presentations from guest speakers of the likes of Alfred Lau and <a href="http://www.redfernnaturalhistory.com/">Stewart McPherson</a>, among others. Globe trotting club members often show their own slides of CP in habitat in exotic locations ranging from remote sections of Amazonian Brazil to the highlands of Borneo. 
+
+LACPS meetings regularly feature presentations from guest speakers of the likes of Alfred Lau and <a href="http://www.redfernnaturalhistory.com/">Stewart McPherson</a>, among others. Globe trotting club members often show their own slides of CP in habitat in exotic locations ranging from remote sections of Amazonian Brazil to the highlands of Borneo.
 
 A sample from the August '09 meeting: <a href="http://www.redfernnaturalhistory.com/">Stewart McPherson</a>'s slides of Heliamphora and Nepenthes:
 

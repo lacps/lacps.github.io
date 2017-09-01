@@ -3,6 +3,7 @@ layout: post
 title: June 16, 2007 CSUF Meeting Photos
 redirect_from: "/node/55"
 category: Photos
+author: LACPS
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_4224.jpg" alt="Pinguicula table" />

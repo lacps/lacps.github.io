@@ -3,6 +3,7 @@ layout: post
 title: February 16, 2008 Alhambra Meeting Photos
 redirect_from: "/node/60"
 category: Photos
+author: LACPS
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_6280.jpg"  alt="Meeting" />

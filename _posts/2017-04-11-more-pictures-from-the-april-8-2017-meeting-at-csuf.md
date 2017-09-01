@@ -3,6 +3,7 @@ layout: post
 title: More Pictures from the April 8, 2017 Meeting at CSUF
 redirect_from: "/node/94"
 categories: Photos
+author: Alejandra Citlaly Molina
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_7651.jpg"  />

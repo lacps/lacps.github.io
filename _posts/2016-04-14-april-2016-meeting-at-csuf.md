@@ -2,6 +2,8 @@
 layout: post
 title: April 2016 Meeting at CSUF
 redirect_from: "/node/85"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Here is an announcement from Ed Read with details about the upcoming April 2016 LACPS meeting: </p>

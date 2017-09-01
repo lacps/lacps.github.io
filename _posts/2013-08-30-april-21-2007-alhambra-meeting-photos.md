@@ -3,6 +3,7 @@ layout: post
 title: April 21, 2007 Alhambra Meeting Photos
 redirect_from: "/node/54"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/_MG_2421.jpg"  alt="meeting" />

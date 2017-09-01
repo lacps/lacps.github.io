@@ -3,6 +3,7 @@ layout: post
 title: February 18, 2006 Alhambra Meeting Photos
 redirect_from: "/node/49"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010053_0.jpg"  alt="Meeting" />

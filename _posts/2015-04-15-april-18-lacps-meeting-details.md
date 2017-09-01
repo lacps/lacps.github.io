@@ -2,6 +2,8 @@
 layout: post
 title: April 18 LACPS Meeting Details
 redirect_from: "/node/79"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Here are details from Ed Read about the upcoming LACPS meeting at the <a href="http://biology.fullerton.edu/facilities/greenhouse/index.html">Cal State Fullerton biology greenhouse complex</a> on April 18:</p>

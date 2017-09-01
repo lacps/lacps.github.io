@@ -3,6 +3,7 @@ layout: post
 title: October 25, 2003 Meeting Photos at Descanso Gardens
 redirect_from: "/node/47"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010051.jpg"  alt="Sarracenia" />

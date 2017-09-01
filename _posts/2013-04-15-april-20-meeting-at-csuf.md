@@ -2,6 +2,8 @@
 layout: post
 title: April 20 Meeting at CSUF
 redirect_from: "/node/41"
+author: LACPS
+category: News
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The April LACPS meeting will convene on the 20th at the CSUF Biology Greenhouse complex. Here are the details from Tom:</p>

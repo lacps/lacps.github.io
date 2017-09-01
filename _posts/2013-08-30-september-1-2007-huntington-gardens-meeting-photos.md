@@ -3,6 +3,7 @@ layout: post
 title: September 1, 2007 Huntington Gardens Meeting Photos
 redirect_from: "/node/56"
 category: Photos
+author: LACPS
 ---
 
 <img src="/sites/default/files/styles/large/public/meeting_photos/_MG_2462.jpg" alt="Meeting" />

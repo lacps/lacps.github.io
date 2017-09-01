@@ -3,6 +3,7 @@ layout: post
 title: April 17, 2004 Meeting Photos at the Alhambra Chamber of Commerce
 redirect_from: "/node/46"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010026.jpg"  alt="Sarracenia" />

@@ -2,6 +2,8 @@
 layout: post
 title: October 2014 Meeting Location Change
 redirect_from: "/node/75"
+category: News
+author: LACPS
 ---
 
 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The October meeting will be held at the La Canada YMCA; the usual venue in Alhambra is presently undergoing renovation. Here are Tom Johnson's notes on the venue:</p>

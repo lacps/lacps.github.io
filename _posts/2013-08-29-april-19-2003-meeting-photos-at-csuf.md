@@ -3,6 +3,7 @@ layout: post
 title: April 19, 2003 Meeting Photos at CSUF
 redirect_from: "/node/44"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P4190001.jpg"  alt="Sarracenia" />

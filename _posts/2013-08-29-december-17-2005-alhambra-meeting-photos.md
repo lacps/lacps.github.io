@@ -3,6 +3,7 @@ layout: post
 title: December 17, 2005 Alhambra Meeting Photos
 redirect_from: "/node/48"
 category: Photos
+author: LACPS
 ---
 
 <img src="https://lacps.net/sites/default/files/styles/large/public/meeting_photos/P1010018.jpg"  alt="Petiolaris Drosera" />
