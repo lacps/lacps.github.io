@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frankie Obregon Outdoor Nepenthes Talk on October 21, 2017
+title: Frankie Obregon Outdoor Nepenthes Talk on October 21
 redirect_from:
 author: LACPS
 category: News
