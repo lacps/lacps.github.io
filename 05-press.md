@@ -5,11 +5,11 @@ excerpt: Reports about the Los Angeles Carnivorous Plant Society in the media.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
-[![LA Weekly LACPS story](/sites/default/files/photos/laweekly.png)](http://www.laweekly.com/2008-09-11/la-vida/feed-me-carnivorous-plants-and-the-bloody-fingered-people-who-love-them/){:class="profile"}
+[![LA Weekly LACPS story](/sites/default/files/photos/laweekly.png){:class="profile"}](http://www.laweekly.com/2008-09-11/la-vida/feed-me-carnivorous-plants-and-the-bloody-fingered-people-who-love-them/)
 
 [Alimurung, Gendy. "Feed Me! Carnivorous Plants and the Bloody-Fingered People Who Love Them." **LA Weekly** 9 Sept, 2008](http://www.laweekly.com/2008-09-11/la-vida/feed-me-carnivorous-plants-and-the-bloody-fingered-people-who-love-them/).
 
-[![BACPS Gridley LACPS article](/sites/default/files/photos/bacps-gridley.png)](http://www.bacps.org/2009Summer/#lacps){:class="profile"}
+[![BACPS Gridley LACPS article](/sites/default/files/photos/bacps-gridley.png){:class="profile"}](http://www.bacps.org/2009Summer/#lacps)
 
 [Gridley, Tony. "My LACPS Visit." **BACPS Newsletter** Summer 2009. BACPS. 4 Dec, 2009.](http://www.bacps.org/2009Summer/#lacps).
 
