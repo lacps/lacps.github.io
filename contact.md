@@ -11,11 +11,11 @@ For more information on the Los Angeles Carnivorous Plant Society, join the [LAC
 <span class="d">cslanet.calstatela[dot]edu</span>
 </span>
 
-### Other carnivorous plant clubs
+### Other Carnivorous Clant Clubs
 
 Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
 
-### About the website
+### About the Website
 
 This website hosted and maintained by Forbes Conrad. Check out [aldrovanda.com for more of his botanical photography](https://aldrovanda.com/). This site is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
 
