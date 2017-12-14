@@ -125,5 +125,6 @@ Meetings are held the third Saturday of every even-numbered month. To keep appri
 * October 20 at the [Alhambra Chamber of Commerce building](/meetings)
 * December 15 at the [Alhambra Chamber of Commerce building](/meetings)
 
+### Earlier meetings
 
 LACPS meetings began in 1994; the full meeting history is not recorded, although Ivan has written a [brief history of the LACPS](/history).
