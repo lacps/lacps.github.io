@@ -6,7 +6,7 @@ author: LACPS
 category: News
 ---
 
-Our December 16th 2017 meeting will be a Potluck. The meeting will convene at the [Alhambra Chamber of Commerce building](http://lacps.net/where-to-go). Doors open when Tom arrives, which is usually around 10:45 AM.
+Our December 16th 2017 meeting will be a Potluck. The meeting will convene at the [Alhambra Chamber of Commerce building](/meetings). Doors open when Tom arrives, which is usually around 10:45 AM.
 
 ### Notes on Potluck Etiquette from Amy
 
