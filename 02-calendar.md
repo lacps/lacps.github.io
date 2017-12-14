@@ -10,12 +10,12 @@ Meetings are held the third Saturday of every even-numbered month. To keep appri
 
 ### 2018 Calendar
 
-* February 10 at the [Alhambra Chamber of Commerce building](/meetings)
-* April 14 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)
-* June 9 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
-* August 11 at the [Alhambra Chamber of Commerce building](/meetings)
-* October 13 at the [Alhambra Chamber of Commerce building](/meetings)
-* December 8 at the [Alhambra Chamber of Commerce building](/meetings)
+* February 17 at the [Alhambra Chamber of Commerce building](/meetings)
+* April 21 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)
+* June 16 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
+* August 18 at the [Alhambra Chamber of Commerce building](/meetings)
+* October 20 at the [Alhambra Chamber of Commerce building](/meetings)
+* December 15 at the [Alhambra Chamber of Commerce building](/meetings)
 
 ### 2017 Calendar
 
