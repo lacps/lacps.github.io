@@ -11,7 +11,7 @@ For more information on the Los Angeles Carnivorous Plant Society, join the [LAC
 <span class="d">cslanet.calstatela[dot]edu</span>
 </span>
 
-### Other Carnivorous Clant Clubs
+### Other Carnivorous Plant Clubs
 
 Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
 
