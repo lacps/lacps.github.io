@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April meeting at CSUF
+title: April Meeting at CSUF
 redirect_from:
 author: LACPS
 category: News
