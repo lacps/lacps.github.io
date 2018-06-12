@@ -10,13 +10,13 @@ category: News
 
 The next meeting of the LACPS will be at the Huntington Library and Botanical Gardens at 10:30am - 1:30pm Saturday June 16, 2018.
 
-###Admissions
+### Admissions
 
 Sign ups are more or less closed at this point. Every one who signed up at the previous meetings or posted a request to this point should be signed up.
 
 Please see the sign-up sheet in the [LACPS Yahoo Groups database section](https://groups.yahoo.com/neo/groups/LACPS/database/9/).
 
-###Location
+### Location
 
 The meeting will be held in the Ahmanson Classroom in the Brodie Botanical Center building.
 
@@ -28,7 +28,7 @@ Parking is free in the visitors lot. From the North end of the parking lot follo
 
 The Brodie Botanical Center is pretty much due west of entrance area.
 
-###Sales and Trades
+### Sales and Trades
 
 You are welcome to bring plants to show-and-tell, trade or whatever. Be aware the Huntington staff are trained to prevent people leaving the garden areas with plants. This has not been a problem in the past but could be. Be prepared to transport your plants across the large parking lot depending on where you find parking.
 
