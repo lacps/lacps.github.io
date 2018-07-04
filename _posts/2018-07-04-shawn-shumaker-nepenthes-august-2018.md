@@ -8,7 +8,7 @@ category: News
 
 ![Shawn Shumaker LACPS meeting announcement picture](/assets/images/posts/shawn-shumaker-meeting-announcement.jpeg)
 
-Our guest speaker in the month of August will be Shawn Shumaker, managing horticulturist at the Santa Barbara Orchid Estate and carnivorous plant enthusiast.
+Our guest speaker in the month of August will be [Shawn Shumaker](https://twitter.com/ShaneShawnmaker), managing horticulturist at the Santa Barbara Orchid Estate and carnivorous plant enthusiast.
 
 ### What to Expect
 
