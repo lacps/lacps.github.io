@@ -6,11 +6,11 @@ author: LACPS
 category: News
 ---
 
-![Leo Song Pinguicula LACPS meeting announcement picture](/assets/images/posts/leo-song-pinguicula-lacps-meeting.jpeg)
+![Leo Song Pinguicula LACPS meeting announcement picture](/assets/images/posts/leo-song-pinguicula-lacps-meeting.jpg)
 
 [Leo Song](https://www.instagram.com/leochulsongjr/) will be speaking about *Pinguicula* at the October LACPS meeting.
 
-Dr. Song is the former greenhouse manager at California State University Fullerton and a living legend in carnivorous plant circles. Amongst other things, he is known for pioneering *Amorphophallus titanum* and *Welwitschia mirabilis* cultivation, and is responsible for the widely-grown *Dionaea muscipula* 'Jaws' and *Pinguicula* 'Titan' cultivars. Peter D'Amato recently named *Sarracenia* ‘Leo Song’ in his honor.
+Dr. Song is the former greenhouse manager at California State University Fullerton and a living legend in carnivorous plant circles. Amongst other things, he is known for pioneering *Amorphophallus titanum* and *Welwitschia mirabilis* cultivation, and is responsible for the widely-grown *Dionaea muscipula* 'Jaws,' *Pinguicula* 'Pirouette,' and *Pinguicula* 'Titan' cultivars. Peter D'Amato recently named *Sarracenia* ‘Leo Song’ in his honor.
 
 ### What to Expect
 
