@@ -18,7 +18,7 @@ Do not miss this opportunity to learn from an expert and go home with a little s
 
 ### Where to Go
 
-The meeting will convene on Saturday, August 18, 2017 at the [Alhambra Chamber of Commerce building](/meetings). The doors will open when Tom arrives, which is usually around 10:45AM.
+The meeting will convene on Saturday, August 18, 2018 at the [Alhambra Chamber of Commerce building](/meetings). The doors will open when Tom arrives, which is usually around 10:45AM.
 
 ### Sales and Trades
 
