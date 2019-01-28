@@ -8,6 +8,15 @@ last_modified_at: 2017-08-27T14:28:13-05:00
 
 Meetings are held the third Saturday of every even-numbered month. To keep apprised of the latest Los Angeles Carnivorous Plant Society news and announcements, subscribe to the [LACPS Mailing List](/mailing-list), check the [News](/news) page, or [follow LACPS on twitter](https://twitter.com/lacarnivores).
 
+### 2019 Calendar
+
+* February 16 at the [Alhambra Chamber of Commerce building](/meetings)
+* April 20 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)
+* June 15 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
+* August 17 at the [Alhambra Chamber of Commerce building](/meetings)
+* October 19 at the [Alhambra Chamber of Commerce building](/meetings)
+* December 21 at the [Alhambra Chamber of Commerce building](/meetings)
+
 ### 2018 Calendar
 
 * February 17 at the [Alhambra Chamber of Commerce building](/meetings)
