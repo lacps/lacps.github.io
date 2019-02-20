@@ -20,7 +20,7 @@ The Biology Greenhouse Complex (BGC) provides space and facilities to teach labs
 800 N State College Blvd
 Fullerton, California 92831](https://www.openstreetmap.org/#map=17/33.87944/-117.88853&layers=N)
 
-The BGC is located just west of McCarthy Hall. The entrance is near the middle of the east perimeter wall. [See the CSUF campus map](http://www.fullerton.edu/campusmap/).
+The BGC is located just west of McCarthy Hall. The entrance is near the middle of the east perimeter wall. See the [CSUF campus map](http://www.fullerton.edu/campusmap/).
 
 The greenhouses are north of entrance 2.
 
