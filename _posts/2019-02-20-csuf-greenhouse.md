@@ -28,4 +28,4 @@ Please be aware that this is mainly a walking/standing event. There are limited 
 
 ### Sales and Trades
 
-Plants are welcomed to be brought for showing/trading/selling as always but you may be so taken by the greenhouse carnivorous plant collection and see little else. The meeting starts and ends on time.
+Plants are welcome for show or sale, as always. The meeting starts and ends on time.
