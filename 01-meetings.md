@@ -22,6 +22,6 @@ Most meetings are held at the Alhambra Chamber of Commerce building. Check the [
 
 ### Address
 
-[104 S. First St., Alhambra, California. U.S.A.](https://www.openstreetmap.org/#map=19/34.09318/-118.12722&layers=N)
+[104 S. First St., Alhambra, California. U.S.A.](https://www.openstreetmap.org/#map=19/34.09341/-118.12684&layers=N)
 
-<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-118.12813550233842%2C34.092459864086095%2C-118.1263116002083%2C34.09389920809119&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/34.09318/-118.12722&amp;layers=N">View Larger Map</a></small>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-118.12775462865832%2C34.09269309278556%2C-118.12593072652818%2C34.094132432824836&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/34.09341/-118.12684&amp;layers=N">View Larger Map</a></small>
