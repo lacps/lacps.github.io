@@ -14,7 +14,7 @@ The Biology Greenhouse Complex (BGC) provides space and facilities to teach labs
 
 ### Where to Go
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-117.8940510749817%2C33.87655304861266%2C-117.88300037384035%2C33.88232492233888&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/33.87944/-117.88853&amp;layers=N">View Larger Map</a></small>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-117.8940510749817%2C33.87655304861266%2C-117.88300037384035%2C33.88232492233888&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/33.87944/-117.88853&amp;layers=N">View Larger Map</a></small>
 
 [California State University, Fullerton Biology Greenhouse Complex
 800 N State College Blvd
