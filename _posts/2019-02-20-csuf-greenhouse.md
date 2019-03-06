@@ -6,7 +6,7 @@ author: LACPS
 category: News
 ---
 
-The April 6th 2019 LACPS meeting will be held at the [California State University Fullerton Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/) from 10:00 to noon.
+The *April 27th 2019* LACPS meeting will be held at the [California State University Fullerton Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/) from 10:00 to noon.
 
 ### What to Expect
 
