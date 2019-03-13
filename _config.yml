@@ -19,7 +19,7 @@ keep_files: [/sites/default/files/styles/large/public/meeting_photos/, _*.jpg /s
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
 subtitle: "LACPS"
-email: info[at]lacps [dot] net
+email: info[at]lacps [dot] org
 name: Los Angeles Carnivorous Plant Society
 description: >
   The LACPS is an informal club dedicated to discussing, growing, and trading carnivorous plants in southern California.

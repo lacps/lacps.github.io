@@ -22,7 +22,7 @@ This website hosted and maintained by Forbes Conrad. Check out [aldrovanda.com f
 Should you find any errors of note on this website, please contact Forbes - <span class="spamspan">
 <span class="u">info</span>
 [at]
-<span class="d">lacps [dot] net</span>
+<span class="d">lacps [dot] org</span>
 </span> (for meeting-related inquiries, please contact Tom or write the [LACPS Yahoo Group](https://groups.yahoo.com/neo/groups/LACPS/info).
 
 ### Copyright
