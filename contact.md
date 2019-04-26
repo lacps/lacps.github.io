@@ -5,6 +5,8 @@ excerpt: Contact information for the Los Angeles Carnivorous Plant Society.
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
+![DJ poses with a Venus Flytrap, a type of carnivorous plant, at an LACPS meeting in Alhambra, California](/sites/default/files/photos/12_1735684423f53d73014f.jpg){:class="profile"}
+
 For more information on the Los Angeles Carnivorous Plant Society, join the [LACPS Yahoo Group](https://groups.yahoo.com/neo/groups/LACPS/info) or contact Thomas Johnson at <span class="spamspan">
 <span class="u">tjohnson</span>
 [at]
