@@ -8,11 +8,15 @@ category: News
 
 ![Los Angeles International Fern Society LACPS outreach announcement](/assets/images/posts/2019-05-18-los-angeles-international-fern-society-outreach.png)
 
-LACPS will be doing an outreach/fundraiser In June! We have been offered display and vendor tables (for a fee) at the annual show and sale of the Los Angeles International Fern Society’s annual show on Ferns and exotic plants. It is held at the beautiful Los Angeles Arboretum in Arcadia CA.
+LACPS will be doing an outreach/fundraiser on June 8th and 9th! We have been offered display and vendor tables (for a fee) at the annual show and sale of the Los Angeles International Fern Society’s annual show on Ferns and exotic plants. It is held at the beautiful Los Angeles Arboretum in Arcadia CA.
 
-The Los Angeles International Fern Society was formed to provide a source of information on ferns, to arrange for people to study ferns and to encourage the use and enjoyment of ferns. In a more general way, the Society aims to encourage all horticultural activities by example, education, exhibits and donations.
+Read more about the LAIFS on the [LAIFS website](https://laifs.org/)
 
-We would encourage all members to attend and participate. Our last event had over a couple thousand in sales, and interactions with hundreds of people who got a newfound interest in CPs. Check the [mailing list](/mailing-list) for details and updates.
+### Who can go
+
+We would encourage all members to attend and participate. Our last event had over a couple thousand dollars in sales, and interactions with hundreds of people who got a newfound interest in CPs. Check the [mailing list](/mailing-list) for details and updates.
+
+### What to expect
 
 Below are pictures of what our booth looked like at the Orange County Pet Expo;
 

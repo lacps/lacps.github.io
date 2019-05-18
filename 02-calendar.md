@@ -12,7 +12,7 @@ Meetings are held the third Saturday of every even-numbered month. To keep appri
 
 * February 16 at the [Alhambra Chamber of Commerce building](/meetings)
 * April 27 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)
-* June 8 and 9 - [LACPS outreach booth at the LAIFS Show and Sale](/news/2019/04/26/laifs-event)
+* June 8 and 9 - [LACPS outreach booth at the LAIFS Show and Sale](/news/2019/05/18/laifs-event)
 * June 15 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
 * August 17 at the [Alhambra Chamber of Commerce building](/meetings)
 * October 19 at the [Alhambra Chamber of Commerce building](/meetings)
