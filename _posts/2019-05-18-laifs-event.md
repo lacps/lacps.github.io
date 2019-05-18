@@ -14,6 +14,8 @@ The Los Angeles International Fern Society was formed to provide a source of inf
 
 We would encourage all members to attend and participate. Our last event had over a couple thousand in sales, and interactions with hundreds of people who got a newfound interest in CPs. Check the [mailing list](/mailing-list) for details and updates.
 
-Below is a picture of what our booth looked like at the Orange County Pet Expo;
+Below are pictures of what our booth looked like at the Orange County Pet Expo;
 
 ![Los Angeles Carnivorous Plant Society booth at the Orange County Pet Expo](/assets/images/posts/2019-05-18-orange-county-pet-expo-lacps-booth.jpg)
+
+![Visitors at the Los Angeles Carnivorous Plant Society booth at the Orange County Pet Expo](/assets/images/posts/2019-05-18-orange-county-pet-expo-lacps-booth-visitors.jpg)
