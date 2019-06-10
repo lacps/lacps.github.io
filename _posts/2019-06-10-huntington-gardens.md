@@ -14,7 +14,7 @@ Meetings at the Huntington are often size-restricted. Consult the [LACPS mailing
 
 ### Location
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-118.13060045242311%2C34.118857271514%2C-118.10367107391357%2C34.13745443433904&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/34.1282/-118.1171&amp;layers=N">View Larger Map</a></small>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-118.13060045242311%2C34.118857271514%2C-118.10367107391357%2C34.13745443433904&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/34.1282/-118.1171&amp;layers=N">View Larger Map</a></small>
 
 The meeting will be held in the Ahmanson Classroom in the Brodie Botanical Center building.
 
