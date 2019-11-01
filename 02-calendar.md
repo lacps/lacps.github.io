@@ -16,7 +16,7 @@ Most meetings are held the third Saturday of every even-numbered month. To keep 
 * June 22 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
 * August 17 at the [Alhambra Chamber of Commerce building](/meetings)
 * October 19 at the [Alhambra Chamber of Commerce building](/meetings)
-* December 21 at the [Alhambra Chamber of Commerce building](/meetings)
+* December 14 at [MC2 Fit in Pasadena](/meetings)
 
 ### 2018 Calendar
 
