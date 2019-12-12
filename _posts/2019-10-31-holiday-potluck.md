@@ -10,9 +10,17 @@ category: News
 
 The December 14, 2019 meeting will be held at [MC2 Fit](https://mc2.fit/) in Pasadena.
 
+Meeting details from Maggie:
+
+Our annual December potluck is this Saturday!  It starts at Noon and goes until ???  Feel free to bring what you like to eat, main dish, side dish, dessert, whatever!  If you like it, chances are others will, too!  But even if you got nothing to bring, you can still drop by!
+
 ### What to Expect
 
-As is customary, the December meeting will feature a potluck. There will also be a plant giveaway, presentation, and grower's round table. Participation in the potluck is encouraged but optional; do not be afraid to attend the meeting without bringing anything to share.
+Entry is, as always, $3 at the door!  Everybody who attends gets two, count 'em TWO tickets to the plant Give-a-way just for attending!  We will have three grand prize plants for the Give-a-way, a Heliamphora, a Cephalotus and a Nepenthes!  Additional tickets can be purchased for $2 each.  Or You can earn additional tickets by donating plants to the Give-A-Way. The amount of tickets you get for a plant is at the sole discretion of the Secret Cabal. But you can probably figure something like a Ping 'aphrodite' or capensis would get you one ticket, a pretty nice Nepenthes about ten.
+
+How the Give-A-Way will work; When the Give-A_Way starts, three tickets will be drawn. One each for the first, second and third prizes. These will not be announced, but will be set aside to be announced at the end. The balance of the plants will be gathered in a group on the Give-A-Way table, and as tickets are pulled and announced, the ticket holder may choose one plant from whatever plants are still available in the group. We will continue drawing tickets until all plants are claimed. After that, we will announce the winners of the 1st, 2nd and 3rd plants.
+
+You MUST be present to win.
 
 ### Sales and Trades
 
