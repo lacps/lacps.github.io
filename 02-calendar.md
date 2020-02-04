@@ -10,7 +10,7 @@ Most meetings are held the third Saturday of every even-numbered month. To keep 
 
 ### 2020 Calendar
 
-* February 15 at the [Alhambra Chamber of Commerce building](/meetings)
+* February 29 at the [Alhambra Chamber of Commerce building](/meetings)
 * April 18 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)
 * June 20 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
 * August 15 at the [Alhambra Chamber of Commerce building](/meetings)
