@@ -12,7 +12,7 @@ Most meetings are held the third Saturday of every even-numbered month. To keep 
 
 * February 29 at the [Alhambra Chamber of Commerce building](/meetings)
 * ~~April 18 at the [CSUF Biology Greenhouse Complex](http://biology.fullerton.edu/facilities/greenhouse/)~~ *canceled due to COVID-19 concerns*
-* June 20 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)
+* ~~June 20 at the [Huntington Library and Botanical Gardens](http://www.huntington.org)~~ *canceled due to COVID-19 concerns*
 * August 15 at the [Alhambra Chamber of Commerce building](/meetings)
 * October 17 at the [Alhambra Chamber of Commerce building](/meetings)
 * December 19 at the [Alhambra Chamber of Commerce building](/meetings)
