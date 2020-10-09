@@ -5,8 +5,6 @@ excerpt: Reports about the Los Angeles Carnivorous Plant Society in the media.
 last_modified_at: 2020-10-08 T14:28:13-05:00
 ---
 
-https://mkostrow.wixsite.com/locallocekuci/shows
-
 [![KUCI Local Love LACPS interview screenshot](/assets/images/pages/kuci-local-love-lacps-radio-interview-screenshot.jpg){:class="profile"}](https://mkostrow.wixsite.com/locallocekuci/shows)
 
 [Ostrowski, Mackenzie. "Tom Johnson, Daryt Frank and Frank Obregon - Los Angeles Carnivorous Plant Society." **Local Love** KUCI. Oct, 2020. Radio.](https://mkostrow.wixsite.com/locallocekuci/shows). Recording archived [here](/assets/files/kuci-local-love-lacps-interview.mp3).
