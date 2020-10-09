@@ -51,7 +51,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: lacps
+# disqus_shortname: lacps
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
