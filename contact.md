@@ -15,6 +15,8 @@ For more information on the Los Angeles Carnivorous Plant Society, join the [LAC
 
 ### Other Carnivorous Plant Clubs
 
+California is also home to the [BACPS](https://www.bacps.org/), [SDCPS](https://www.sandiegocarnivorousplantsociety.com/), and [SCCPE](https://sccpe.org/). 
+
 Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
 
 ### About the Website
