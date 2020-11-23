@@ -1,4 +1,5 @@
 ---
+layout: page
 title: LACPS Matrix Group
 permalink: /matrix-group/
 excerpt: How to subscribe to the Los Angeles Carnivorous Plant Society discussion group.
