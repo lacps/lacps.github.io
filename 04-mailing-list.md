@@ -11,13 +11,11 @@ Should you wish to keep abreast of occasional Los Angeles Carnivorous Plant Soci
 
 You might also [follow LACPS on twitter](https://twitter.com/lacarnivores).
 
-### Carnivorous Plant Clubs
+### Other Carnivorous Plant Clubs
 
-Other active carnivorous plant clubs in North America include the following:
-* [Bay Area Carnivorous Plant Society](http://www.bacps.org)
-* [New England Carnivorous Plant Society](http://www.necps.org)
-* [Upper Midwest Carnivorous Plant Society](http://umcps.net)
-* [San Diego Carnivorous Plant Society](http://www.sandiegocarnivorousplantsociety.com/)
+California is also home to the [BACPS](https://www.bacps.org/), [SDCPS](https://www.sandiegocarnivorousplantsociety.com/), and [SCCPE](https://sccpe.org/). 
+
+Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
 
 ### Other Carnivorous Plant Resources
 
