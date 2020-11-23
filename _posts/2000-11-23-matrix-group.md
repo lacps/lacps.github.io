@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LACPS Matrix Group
+title: Matrix Discussion Group
 permalink: /matrix-group/
 excerpt: How to subscribe to the Los Angeles Carnivorous Plant Society discussion group.
 last_modified_at: 2010-11-23T09:10:13-05:00
@@ -8,11 +8,13 @@ last_modified_at: 2010-11-23T09:10:13-05:00
 
 To keep abreast of LACPS announcements or participate in electronic LA CP discussion, join the LACPS group on Matrix.org.
 
-To receive message notifications on your phone, download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app, then scan the below QR code with your camera to connect to the group or add #lacps:matrix.org in the app.
+To receive message notifications on your phone, first download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app, then scan the below QR code with your camera to connect to the group.
 
 ![LACPS Matrix group QR code](/assets/images/pages/lacps-matrix-group.png){:class="profile"}
 
-You can also access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org), but will lose out on notifications without installing the Element app on your phone.
+...or manually add #lacps:matrix.org in the app.
+
+You can also join and access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org), but will lose out on notifications without the Element app installed on your phone.
 
 ### Twitter
 
