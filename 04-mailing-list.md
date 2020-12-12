@@ -21,7 +21,7 @@ If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com
 
 ![LACPS Matrix group QR code](/assets/images/pages/lacps-matrix-group.png){:class="profile"}
 
-...or manually add [#lacps:matrix.org](#lacps:matrix.org) in the app.
+...or manually add #lacps:matrix.org in the app.
 
 You can also join and access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org) but will lose out on message notifications without the Element app installed on your phone.
 
