@@ -13,7 +13,7 @@ To keep abreast of LACPS announcements or participate in electronic LA CP discus
 
 ### Twitter
 
-Meeting announcements are usually posted [on twitter](https://twitter.com/lacarnivores); at this time, few members are active there and interaction is limited. Still, if you are an active user of the platform, do [follow LACPS on twitter](https://twitter.com/lacarnivores).
+Meeting announcements are usually posted [on twitter](https://twitter.com/lacarnivores); at this time, few members are active there and interaction is limited. Still, if you are an active user of the platform, do [follow @lacarnivores on twitter](https://twitter.com/lacarnivores).
 
 ### Matrix
 
