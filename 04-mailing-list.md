@@ -7,7 +7,9 @@ last_modified_at: 2017-08-27T14:28:13-05:00
 
 ![Photograph of Ivan Snyder's venus flytrap - a carnivorous plant - an an LACPS meeting in Los Angeles, California](/sites/default/files/photos/5_17364713682c96f32f38.jpg){:class="profile"}
 
-To keep abreast of LACPS announcements or participate in electronic LA CP discussion, [click here to subscribe to the LACPS Yahoo Group](https://groups.yahoo.com/neo/groups/LACPS/info) or send an email to [LACPS-subscribe@yahoogroups.com](mailto:LACPS-subscribe@yahoogroups.com).
+### Email Group
+
+To keep abreast of LACPS announcements or participate in electronic LA CP discussion, [click here to subscribe to the LACPS email group](https://groups.yahoo.com/neo/groups/LACPS/info) or send an email to [LACPS-subscribe@yahoogroups.com](mailto:LACPS-subscribe@yahoogroups.com).
 
 ### Twitter
 
