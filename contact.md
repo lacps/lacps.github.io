@@ -13,6 +13,10 @@ For more information on the Los Angeles Carnivorous Plant Society, join the [LAC
 <span class="d">cslanet.calstatela[dot]edu</span>
 </span>
 
+### Mailing List, Group Chat, Social Media
+
+Check the [mailing list](/mailing-list/) page for other ways to connect with the group.
+
 ### Other Carnivorous Plant Clubs
 
 California is also home to the [BACPS](https://www.bacps.org/), [SDCPS](https://www.sandiegocarnivorousplantsociety.com/), and [SCCPE](https://sccpe.org/). 
