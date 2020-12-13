@@ -9,6 +9,8 @@ last_modified_at: 2017-08-27T14:28:13-05:00
 
 ### Email Group
 
+{% include /_includes/mailinglist.html %}
+
 To keep abreast of LACPS announcements or participate in electronic LA CP discussion, [click here to subscribe to the LACPS email group](https://groups.yahoo.com/neo/groups/LACPS/info) or send an email to [LACPS-subscribe@yahoogroups.com](mailto:LACPS-subscribe@yahoogroups.com).
 
 ### Twitter
