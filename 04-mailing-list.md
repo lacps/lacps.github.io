@@ -27,17 +27,4 @@ If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com
 
 ...or manually add #lacps:matrix.org in the app.
 
-You can also join and access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org) but will lose out on message notifications without the Element app installed on your phone.
-
-### Other Carnivorous Plant Clubs
-
-California is also home to the [BACPS](https://www.bacps.org/), [SDCPS](https://www.sandiegocarnivorousplantsociety.com/), and [SCCPE](https://sccpe.org/). 
-
-Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
-
-### Other Carnivorous Plant Resources
-
-For yet more verbiage and photos to feed your carnivorous plant frenzy, any of the following could fit the bill:
-* [International Carnivorous Plant Society](http://carnivorousplants.org/)
-* [CPUK Forum](http://www.cpukforum.com/) (it ain't just for Brits)
-* [CP FAQ](http://www.sarracenia.com/faq.html), which includes a list of [other carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
+You can also join and access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org) but will lose out on message notifications without the Element app installed on your device.

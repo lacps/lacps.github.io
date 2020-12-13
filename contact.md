@@ -23,6 +23,13 @@ California is also home to the [BACPS](https://www.bacps.org/), [SDCPS](https://
 
 Should you be looking for a CP group in another geographic area, the [CP FAQ](http://www.sarracenia.com/faq.html) maintains a [list of carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
 
+### Other Carnivorous Plant Resources
+
+For yet more verbiage and photos to feed your carnivorous plant frenzy, any of the following could fit the bill:
+* [International Carnivorous Plant Society](http://carnivorousplants.org/)
+* [CPUK Forum](http://www.cpukforum.com/) (it ain't just for Brits)
+* [CP FAQ](http://www.sarracenia.com/faq.html), which includes a list of [other carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
+
 ### About the Website
 
 This website hosted and maintained by Forbes Conrad. Check out [aldrovanda.com for more of his botanical photography](https://aldrovanda.com/). This site is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
