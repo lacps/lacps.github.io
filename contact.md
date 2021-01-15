@@ -28,18 +28,14 @@ Should you be looking for a CP group in another geographic area, the [CP FAQ](ht
 For yet more verbiage and photos to feed your carnivorous plant frenzy, any of the following could fit the bill:
 * [International Carnivorous Plant Society](http://carnivorousplants.org/)
 * [CPUK Forum](http://www.cpukforum.com/) (it ain't just for Brits)
-* [CP FAQ](http://www.sarracenia.com/faq.html), which includes a list of [other carnivorous plant societies](http://sarracenia.com/faq/faq6100.html).
+* [CP FAQ](http://www.sarracenia.com/faq.html)
 
 ### About the Website
 
-This website hosted and maintained by Forbes Conrad. Check out [aldrovanda.com for more of his botanical photography](https://aldrovanda.com/). This site is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
+This website is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
 
 Should you find any errors of note on this website, please contact Forbes - <span class="spamspan">
 <span class="u">info</span>
 [at]
 <span class="d">lacps [dot] org</span>
-</span> (for meeting-related inquiries, please contact Tom or write the [LACPS Yahoo Group](https://groups.yahoo.com/neo/groups/LACPS/info).
-
-### Copyright
-
-All photography © Forbes Conrad unless otherwise stated.
+</span> (for meeting-related inquiries, please contact Tom or write the [mailing list](/mailing-list/)).
