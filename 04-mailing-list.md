@@ -34,4 +34,4 @@ LACPS announcements are also posted to the [LACPS discussion group at matrix.org
 
 Scan the above QR code with your device or manually add #lacps:matrix.org in the app.
 
-If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app, then scan the below QR code with your camera or bar code reader to connect to the group.
+If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app.
