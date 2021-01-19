@@ -13,18 +13,25 @@ To keep abreast of LACPS announcements or participate in electronic LA CP discus
 
 {% include mailinglist.html %}
 
+
+### Signal Group
+
+The new [LACPS Signal Messenger group](https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh) is another place to receive meeting announcements.
+
+![LACPS Signal Messenger group QR code](/assets/images/pages/lacps-signal-group.png){:class="profile"}
+
+If you haven't yet adopted [Signal](https://signal.org/download/) (and why wouldn't you?), it is a free, secure messaging platform. See the details at [signal.org](https://signal.org/download/).
+
 ### Twitter
 
 Meeting announcements are usually posted [on twitter](https://twitter.com/lacarnivores); at this time, few members are active there and interaction is limited. Still, if you are an active user of the platform, do [follow @lacarnivores on twitter](https://twitter.com/lacarnivores).
 
-### Matrix
+### Matrix Group
 
 LACPS announcements are also posted to the [LACPS discussion group at matrix.org](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org).
 
-If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app, then scan the below QR code with your camera or bar code reader to connect to the group.
-
 ![LACPS Matrix group QR code](/assets/images/pages/lacps-matrix-group.png){:class="profile"}
 
-...or manually add #lacps:matrix.org in the app.
+Scan the above QR code with your device or manually add #lacps:matrix.org in the app.
 
-You can also join and access the group via your [browser](https://matrix.to/#/!DXmAThJLnBqekJPuum:matrix.org?via=matrix.org) but will lose out on message notifications without the Element app installed on your device.
+If you aren't yet a Matrix user, first download the [iOS](https://apps.apple.com/app/vector/id1083446067) or [Android](https://play.google.com/store/apps/details?id=im.vector.app) Element app, then scan the below QR code with your camera or bar code reader to connect to the group.
