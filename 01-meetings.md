@@ -3,7 +3,7 @@ title: Meetings
 permalink: /meetings/
 redirect_from: /where-to-go
 excerpt: About Los Angeles Carnivorous Plant Society meetings in Southern California.
-last_modified_at: 2017-08-27T14:28:13-05:00
+last_modified_at: 2021-01-21T17:05:13-05:00
 ---
 
 ![LACPS logo](/assets/images/pages/lacps-logo.jpg){:class="profile"}
@@ -14,11 +14,11 @@ Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern
 
 Meetings typically feature plants for display, sale and trade as well as a talk on some aspect of carnivorous plant cultivation or habitat. Should you have questions about growing carnivorous plants in Los Angeles, seeing them in the wild, or, say, the phylogeny of [_Drosera_](http://en.wikipedia.org/wiki/Drosera) in subgenus [_Lasiocephala_](http://en.wikipedia.org/wiki/Taxonomy_of_Drosera#Subgenus_Lasiocephala), you should have little trouble finding someone willing to help.
 
-There are some things you won't find at LACPS gatherings - business meetings, committees, officials or fund raising hassles, for instance - there simply aren't any. If you enjoy snoozing thorough the reading of meeting minutes or if you've always wanted to be elected the Vice President of something (anything), try your local Garden Club or African Violet society.
+There are some things you won't find at LACPS gatherings - committees, officials or fund raising hassles, for instance - there simply aren't any. If you enjoy snoozing thorough the reading of meeting minutes or if you've always wanted to be elected the Vice President of something (anything), try your local Garden Club or African Violet society.
 
 ### Where to Go
 
-Most meetings are held at the Alhambra Chamber of Commerce building. Check the [Meeting Calendar](/calendar) or [News](/news) pages for exceptions. To really dive in with both feet, subscribe to the [LACPS Mailing List](/mailing-list) or [follow LACPS on twitter](https://twitter.com/lacarnivores) for periodic announcements. Meetings typically start at 11am and end around 3pm. The cover charge for Alhambra meetings is $3 to pay for the meeting room.
+Most meetings are held at the Alhambra Chamber of Commerce building. Check the [Meeting Calendar](/calendar) for exceptions. To really dive in with both feet, subscribe to the [LACPS Mailing List](/mailing-list), join the [Signal group](https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh), or [follow LACPS on twitter](https://twitter.com/lacarnivores) for periodic announcements. Meetings typically start at 11am and end around 3pm. The cover charge for Alhambra meetings is $3 to pay for the meeting room.
 
 ### Address
 
