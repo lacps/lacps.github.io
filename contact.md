@@ -2,12 +2,12 @@
 title: Contact
 permalink: /contact/
 excerpt: Contact information for the Los Angeles Carnivorous Plant Society.
-last_modified_at: 2017-08-27T14:28:13-05:00
+last_modified_at: 2021-01-21T17:10:13-05:00
 ---
 
 ![DJ poses with a Venus Flytrap, a type of carnivorous plant, at an LACPS meeting in Alhambra, California](/sites/default/files/photos/12_1735684423f53d73014f.jpg){:class="profile"}
 
-For more information on the Los Angeles Carnivorous Plant Society, write the members via the [LACPS mailing list](/mailing-list/) or contact Thomas Johnson at tjohnson[at] cslanet.calstatela[dot] edu
+For more information on the Los Angeles Carnivorous Plant Society, write the members via the [LACPS mailing list](/mailing-list/) or contact Thomas Johnson at tjohnson[at] cslanet.calstatela {dot} edu
 
 ### Mailing List, Group Chat, Social Media
 
@@ -32,4 +32,4 @@ To learn more about carnivorous plants in general, the below are all good places
 This website is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
 
 Should you find any errors of note on this website, please contact Forbes -
-info @ this website's address (for meeting-related inquiries, please contact Tom or write the [mailing list](/mailing-list/)).
+info@ this website's address. For meeting-related inquiries, please write the [mailing list](/mailing-list/) or contact Tom - tjohnson[at] cslanet.calstatela {dot} edu.
