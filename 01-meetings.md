@@ -8,7 +8,7 @@ last_modified_at: 2021-01-21T17:05:13-05:00
 
 ![LACPS logo](/assets/images/pages/lacps-logo.jpg){:class="profile"}
 
-Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern California for discussing and trading carnivorous plants. Whether you are a horticulturist, scientist, educator, student, hobbyist or merely someone intrigued by plants that capture and digest prey, an LACPS meeting may just be the perfect place to further your phyto-carnivorous pursuits.  
+Los Angeles Carnivorous Plant Society meetings are the largest forum in Southern California for discussing and trading carnivorous plants. Whether you are a horticulturist, scientist, educator, student, hobbyist or merely someone intrigued by plants that capture and digest prey, an LACPS meeting may just be the perfect place to further your phyto-carnivorous pursuits.
 
 ### What to Expect
 
@@ -18,7 +18,11 @@ There are some things you won't find at LACPS gatherings - committees, officials
 
 ### Where to Go
 
-Most meetings are held at the Alhambra Chamber of Commerce building. Check the [Meeting Calendar](/calendar) for exceptions. To really dive in with both feet, subscribe to the [LACPS Mailing List](/mailing-list), join the [Signal group](https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh), or [follow LACPS on twitter](https://twitter.com/lacarnivores) for periodic announcements. Meetings typically start at 11am and end around 3pm. The cover charge for Alhambra meetings is $3 to pay for the meeting room.
+Most meetings are held at the Alhambra Chamber of Commerce building. Check the [Meeting Calendar](/calendar) for exceptions. To really dive in with both feet, subscribe to the [LACPS Mailing List](/mailing-list), join the [Signal group](https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh), or [follow LACPS on twitter](https://twitter.com/lacarnivores) for periodic announcements. Meetings typically start at 11am and end around 3pm.
+
+### Cost
+
+The cover charge for Alhambra meetings is $3, which covers the cost of the meeting room (the Chamber of Commerce is a capitalist organization after all!). Meetings held elsewhere usually are not subject to a cover charge. Should you wish to sell extra plants at meetings, we encourage you to do so and do not impose any sort of sales fee.
 
 ### Address
 
