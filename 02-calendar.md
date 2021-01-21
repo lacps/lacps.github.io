@@ -6,11 +6,11 @@ excerpt: Dates and times for past and future Los Angeles Carnivorous Plant Socie
 last_modified_at: 2017-08-27T14:28:13-05:00
 ---
 
-Most meetings are held the third Saturday of every even-numbered month. To keep apprised of the latest Los Angeles Carnivorous Plant Society news and announcements, subscribe to the [LACPS Mailing List](/mailing-list), check the [News](/news) page, or [follow LACPS on twitter](https://twitter.com/lacarnivores).
+Most meetings are held the third Saturday of every even-numbered month. To keep apprised of the latest Los Angeles Carnivorous Plant Society news and announcements, subscribe to the [LACPS Mailing List](/mailing-list) or connect via the [Signal group](https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh).
 
 ### 2021 Calendar
 
-* *Alas, meetings are canceled indefinitely due to COVID-19 concerns and LA County restrictions on group gatherings. Subscribe to the [LACPS Mailing List](/mailing-list) to commiserate with fellow CP people, and also be notified when meetings resume.*
+* *Alas, meetings are canceled indefinitely due to COVID-19 concerns and LA County restrictions on group gatherings. Subscribe to the [LACPS Mailing List](/mailing-list) to commiserate with fellow CP people and be notified when meetings resume.*
 
 ### 2020 Calendar
 
