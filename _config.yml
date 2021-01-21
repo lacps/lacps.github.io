@@ -19,7 +19,7 @@ keep_files: [/sites/default/files/styles/large/public/meeting_photos/, _*.jpg /s
 # Site settings
 title: The Los Angeles Carnivorous Plant Society
 subtitle: "LACPS"
-email: info[at]lacps [dot] org
+email: lacps+subscribe@groups.io
 name: Los Angeles Carnivorous Plant Society
 description: >
   The LACPS is an informal club dedicated to discussing, growing, and trading carnivorous plants in southern California.
@@ -80,6 +80,13 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
+  - name: Signal
+    icon: signal
+    username: Signal Group
+    url: https://signal.group/#CjQKIM7iSG2QLwULsO2hI7EKNUw6p2eYVuahPNrTwFWaB3zHEhAGcBOfY6JeEJu6KalL94Vh
+    desc: Connect in the LACPS Signal group
+    share: true
+  
   - name: Twitter
     icon: twitter
     username: lacarnivores
