@@ -24,7 +24,7 @@ If you haven't yet adopted [Signal](https://signal.org/download/) (and why would
 
 ### Twitter
 
-Meeting announcements are usually posted [on twitter](https://twitter.com/lacarnivores); at this time, few members are active there and interaction is limited. Still, if you are an active user of the platform, do [follow @lacarnivores on twitter](https://twitter.com/lacarnivores).
+Meeting announcements are usually posted [on Twitter](https://twitter.com/lacarnivores); at this time, few members are active there and interaction is limited. Still, if you are an active user of the platform, do [follow @lacarnivores on Twitter](https://twitter.com/lacarnivores).
 
 ### Matrix Group
 
