@@ -10,7 +10,7 @@ exclude: true
 
 The LACPS does not track website visitors in any way nor use mailing list data outside the immediate context of the mailing list.
 
-The third party host who deliver this website and the mailing list likely track and log some data.
+The third party hosts who deliver this website and the mailing list log usage data and may engage in other tracking efforts.
 
 ### Cookies
 
