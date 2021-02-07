@@ -31,5 +31,5 @@ To learn more about carnivorous plants in general, the below are all good places
 
 This website is built on [Jekyll](https://jekyllrb.com/) using [Centrarium](http://bencentra.com/centrarium/) and is hosted on [Github Pages](https://github.com/lacps/lacps.github.io).
 
-Should you find any errors of note on this website, please contact Forbes -
+Should you find any errors of note on this website, please email Forbes directly:
 info@ this website's address. For meeting-related inquiries, please write the [mailing list](/mailing-list/) or contact Tom - tjohnson[at] cslanet.calstatela {dot} edu.
