@@ -10,7 +10,12 @@ Most meetings are held the third Saturday of every even-numbered month. To keep 
 
 ### 2021 Calendar
 
-* *Alas, meetings are canceled indefinitely due to COVID-19 concerns and LA County restrictions on group gatherings. Subscribe to the [LACPS Mailing List](/mailing-list) to commiserate with fellow CP people and be notified when meetings resume.*
+* ~~February 20 at the [Alhambra Chamber of Commerce building](/meetings)~~ *canceled due to COVID-19 concerns*
+* April 17 in Alhambra beginning at 12:00 (location to be announced)
+* June 19 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
+* August 21 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
+* October 16 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
+* December 18 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
 
 ### 2020 Calendar
 
