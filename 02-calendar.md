@@ -12,7 +12,7 @@ Most meetings are held the third Saturday of every even-numbered month. To keep 
 
 * ~~February 20 at the [Alhambra Chamber of Commerce building](/meetings)~~ *canceled due to COVID-19 concerns*
 * April 17 at [Dunsmore Park](https://www.lacps.org/news/2021/04/14/april-meeting-details.html)
-* June 19 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
+* June 5 or 12 (date to be confirmed) at Dunsmore Park
 * August 21 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
 * October 16 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
 * December 18 at the [Alhambra Chamber of Commerce building](/meetings) *COVID-19 status permitting*
